@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Raj
-- 👀 learning to code
-- 🌱 I’m currently a btech student 
-- 💞️ I’m looking to collaborate on web development
+- 👀 Developer
+- 🌱 a.i enthusiasts
+- 💞️ Yet to come..
 ----------------------Learner-----------------------------
 
 <!---
