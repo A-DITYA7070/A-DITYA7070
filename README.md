@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-ditya7070" alt="a-ditya7070" /></a> </p>
 
-- 🔭 I’m currently working as backend developer at agridhaan
+- 🔭 I’m currently working as security consultant intern at synopsys.
 
 - 💬 Ask me about **Nodejs,React,cryptography**
 
