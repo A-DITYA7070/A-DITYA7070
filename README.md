@@ -15,7 +15,7 @@
 - 🚀 Previously interned as a **Backend Developer & Security Consultant**  
 - 🌐 Delivering secure full-stack solutions and conducting **Web, API, Smart contract & Source Code Security Assessments(SAST) **
 - 🤖 Also exploring **AI for Smart Contract Vulnerability Detection**
-- 🛠️ Building custom **MagTuring - AI Powered Smart Contract and source code vulnerabality detection tool ** to enhance pentesting workflows
+- 🛠️ Building **MagTuring - AI Powered Smart Contract and source code vulnerabality detection tool ** to enhance pentesting workflows
 
 - 💬 Ask me about **JavaScript, Node.js, React, Python, Security Testing, Cryptography, Blockchain**
 
